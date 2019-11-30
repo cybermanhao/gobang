@@ -1,0 +1,27 @@
+.content{
+    text-align: center;
+}
+.canvas{
+    border: 1px solid;
+
+}
+.section{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.main{
+    align-items: center;
+    
+}
+.player{
+    margin: 50px;
+
+    box-sizing: content-box;
+    width: 300px;
+    height: 300px;
+}
+.hide{
+    display: none;
+}
+
