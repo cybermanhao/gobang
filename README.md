@@ -1,2 +1,2 @@
 # cybermanhao.github.io
-this is my gobang
+个人js练手小游戏
